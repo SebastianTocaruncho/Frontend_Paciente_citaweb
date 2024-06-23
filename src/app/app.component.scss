@@ -1,0 +1,30 @@
+/* Definición de la clase para el botón amarillo */
+.boton-amarillo {
+    background-color: yellow;
+    color: black; /* Puedes ajustar el color del texto según sea necesario */
+    border: none; /* Opcional: eliminar el borde */
+    padding: 10px 20px; /* Opcional: ajustar el padding según sea necesario */
+    border-radius: 5px; /* Opcional: agregar esquinas redondeadas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+  
+  /* Cambiar el estilo cuando se pasa el cursor sobre el botón */
+  .boton-amarillo:hover {
+    background-color: #ffcc00; /* Amarillo más oscuro */
+  }
+
+  /* Definición de la clase para el botón amarillo */
+.boton-rojo {
+    background-color: red;
+    color: rgb(255, 255, 255); /* Puedes ajustar el color del texto según sea necesario */
+    border: none; /* Opcional: eliminar el borde */
+    padding: 10px 20px; /* Opcional: ajustar el padding según sea necesario */
+    border-radius: 5px; /* Opcional: agregar esquinas redondeadas */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+  
+  /* Cambiar el estilo cuando se pasa el cursor sobre el botón */
+  .boton-rojo:hover {
+    background-color: #ff0000d3; /* Amarillo más oscuro */
+  }
+  
